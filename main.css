@@ -18,6 +18,9 @@ nav ul {
     text-align: right;
 }
 
+h1  {
+    text-align: left;
+}
 .form{
     background-color: lightskyblue;
     text-align: center;
